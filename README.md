@@ -16,7 +16,7 @@
 
 ## 📦 Installation
 
-### **Step 1: Clone the Repository**
+### **Step 1: Install Packages & Clone the Repository**
 ```sh
 pkg update && pkg upgrade -y
 pkg install python -y
