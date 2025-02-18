@@ -24,8 +24,8 @@ pkg update && pkg upgrade -y
 pkg install python -y
 pkg install git
 pkg install python libjpeg-turbo libpng freetype -y
-git clone https://github.com/yourusername/instagram-dms-sender.git
-cd instagram-dms-sender
+git clone https://github.com/MarketingT3ch/MarketingT3ch-IG-Messenger.git
+cd MarketingT3ch-IG-Messenger
 ```
 
 ### **Step 2: Install Dependencies**
@@ -70,11 +70,6 @@ python main.py
 🔹 **Randomized delays** mimic human behavior.  
 🔹 **Pauses after sending multiple messages** to avoid spam detection.  
 🔹 **Handles Instagram’s temporary restrictions automatically.**  
-
----
-
-## ⚠️ Disclaimer
-This script is for educational purposes only. Use it responsibly and follow Instagram’s guidelines. Misuse may lead to account restrictions or bans.
 
 ---
 
