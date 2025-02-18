@@ -1,6 +1,7 @@
 # Instagram DMs Sender
 
-🚀 **Automated Instagram DM Sender** using `instagrapi`. A fast and lightweight tool to send bulk messages without relying on Selenium or a web browser.
+🚀 **Automated Instagram DM's
+Sender** using `instagrapi`. A fast and lightweight tool to send bulk messages without relying on Selenium or a web browser.
 
 ---
 
