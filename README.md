@@ -22,6 +22,7 @@
 ```sh
 pkg update && pkg upgrade -y
 pkg install python -y
+pkg install git
 pkg install python libjpeg-turbo libpng freetype -y
 git clone https://github.com/yourusername/instagram-dms-sender.git
 cd instagram-dms-sender
