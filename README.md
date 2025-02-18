@@ -1,5 +1,3 @@
-# ![Marketing T3ch](https://yourlogo-url.com/animated-logo.gif)
-
 # Instagram DMs Sender
 
 🚀 **Automated Instagram DM Sender** using `instagrapi`. A fast and lightweight tool to send bulk messages without relying on Selenium or a web browser.
@@ -60,7 +58,7 @@ Hope you are doing well!
 
 ### **Step 4: Run the Script**
 ```sh
-python main.py
+python InstaDM_Pro.py
 ```
 
 ---
