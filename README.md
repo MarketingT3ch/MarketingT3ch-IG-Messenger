@@ -20,6 +20,9 @@
 
 ### **Step 1: Clone the Repository**
 ```sh
+pkg update && pkg upgrade -y
+pkg install python -y
+pkg install python libjpeg-turbo libpng freetype -y
 git clone https://github.com/yourusername/instagram-dms-sender.git
 cd instagram-dms-sender
 ```
