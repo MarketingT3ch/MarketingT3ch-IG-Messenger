@@ -21,10 +21,10 @@ CONTACT_DETAILS =r"""
  |___|_| |_|___/\__\__,_|\__, |_|  \__,_|_| |_| |_| |____/|_|  |_| |___/ |____/ \___|_| |_|\__,_|\___|_|   
                          |___/                                                                             
                                                                                                                     
-📌 Purpose   : Automatic Instagram DM's Sending
-📌 Supports  : Multi-account & bulk messaging
+📌 Purpose   : Automatic Instagram DM's Sending.
+📌 Supports  : Multi-account & bulk messaging.
 📌 Version   : 1.1
-📌 Developer : Marketing T3ch
+📌 Developer : Marketing T3ch.
 
 🔒 Approval Required!
 📢 Send your code to the admin for approval.
