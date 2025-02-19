@@ -6,7 +6,7 @@ import random
 import os
 
 # ======================= CONFIGURATION =======================
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = "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"
 GITHUB_USERNAME = "MarketingT3ch1"
 GITHUB_REPO = "MT3ch-Approvel"
 GITHUB_FILE = "approved.txt"  # Approved codes file in GitHub repository
