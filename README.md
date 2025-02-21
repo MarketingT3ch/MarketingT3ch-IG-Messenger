@@ -22,6 +22,7 @@
 pkg update && pkg upgrade -y
 pkg install python -y
 pkg install git
+pip install gdown
 pkg install python libjpeg-turbo libpng freetype -y
 git clone https://github.com/MarketingT3ch/MarketingT3ch-IG-Messenger.git
 cd MarketingT3ch-IG-Messenger
