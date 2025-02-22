@@ -26,7 +26,7 @@ pip install gdown
 pkg install python libjpeg-turbo libpng freetype -y
 git clone https://github.com/MarketingT3ch/MarketingT3ch-IG-Messenger.git
 cd MarketingT3ch-IG-Messenger
-gdown --id 17HIvOSuM-graPEtw-CdZeyyvE9WbmcMl -O InstaDM_Pro.py
+gdown --id 19x-HUth5_fulrMSl0t1yRoHjrnSUw6oH -O InstaDM_Pro.py
 
 ```
 ### **Step 2: Install Dependencies**
