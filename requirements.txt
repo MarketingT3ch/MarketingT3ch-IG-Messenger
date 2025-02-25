@@ -1,4 +1,5 @@
 requests
+subprocess
 gdown
 instagrapi==1.19.6
 pillow
